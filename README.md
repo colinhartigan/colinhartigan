@@ -1,6 +1,5 @@
 ### hi there
 I'm Colin, a high school student from Maryland. I mostly write my programs in Python, but I'm also familiar with C, C++, Java, JavaScript, and Luau.
 
-|GitHub Stats|Top Languages|
-|:-------------------------:|:-------------------------:|
 |[![github stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=react)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinhartigan)](https://github.com/anuraghazra/github-readme-stats)|
+|:-------------------------:|:-------------------------:|
