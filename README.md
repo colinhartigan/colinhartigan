@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/discord-join-7389D8?style=flat&logo=discord)](https://discord.gg/uGuswsZwAT)
+
 ### hi there
 I'm Colin, a high school student from Maryland. I mostly write my programs in Python, but I'm also familiar with C, C++, Java, JavaScript, and Luau.
 
