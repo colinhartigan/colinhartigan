@@ -13,5 +13,3 @@ My top projects, two VALORANT QOL programs: [VALORANT-skin-cli](https://github.c
 <br>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-*i once played too much VALORANT, but now I spend too much time creating programs for it*
