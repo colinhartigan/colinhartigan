@@ -4,7 +4,9 @@
 </span>
 
 ## hi there
-I'm Colin, a high school student from Maryland. I mostly write my programs in Python, but I'm also familiar with C, C++, Java, JavaScript, and Luau.
+I'm Colin, a high school student from Maryland. I have a passion for engineering and enjoy pursuing challenging programming problems. 
+
+I mostly write my programs in Python, but I'm also familiar with C, C++, Java, JavaScript, and Luau.
 
 ## what do i do?
 I have a fascination in reverse-engineering APIs, implementing new features to a product using existing resources, and researching technology in general. 
