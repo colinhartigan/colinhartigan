@@ -5,7 +5,7 @@
 </span>
 
 ## hi there
-I'm Colin, a college student from Maryland. 
+i'm colin, a computer engineering major at georgia tech
 
 <br>
 
