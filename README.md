@@ -13,4 +13,6 @@ i also know some C, C++, and lua
 
 <br>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![profile stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=graywhite)]()
+<br>
+[![7-day wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semicolin&theme=graywhite)]()
