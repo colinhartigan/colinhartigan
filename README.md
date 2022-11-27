@@ -11,8 +11,11 @@ i'm most experienced in python and javascript (react)
 
 i also know some C, C++, and lua
 
-<br>
+<br><br>
+github stats
 
 [![profile stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=graywhite)]()
-<br>
+<br><br>
+week wakatime stats
+
 [![7-day wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semicolin&theme=graywhite)]()
