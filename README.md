@@ -13,9 +13,3 @@ i mostly use python and javascript, but i also know some java, C, C++, and lua
 github stats
 
 [![profile stats](https://github-readme-stats.vercel.app/api?username=colinhartigan&theme=graywhite)]()
-
-<br>
-
-week wakatime stats
-
-[![7-day wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semicolin&theme=graywhite)]()
