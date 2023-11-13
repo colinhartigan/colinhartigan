@@ -7,7 +7,7 @@
 ## hi
 i'm colin, a computer engineering major at georgia tech
 
-i mostly use python and javascript, but i also know some java, C, C++, and lua
+i can write python, javascript, java, C, (some) C++, and lua
 
 <br>
 github stats
