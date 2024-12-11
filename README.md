@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=colinhartigan&color=yellow)
-
 ## hi
 i'm colin, a computer engineering major at georgia tech
 
