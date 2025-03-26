@@ -1,7 +1,7 @@
 ## hi
 i'm colin, a computer engineering major at georgia tech
 
-i can write C, C++, MIPS asm, RISC-V asm, systemverilog, vhdl, python, javascript, java, and lua
+i can write C, C++, RISC-V asm, ARM asm, MIPS asm, systemverilog, vhdl, python, javascript, java, and lua
 
 <br>
 github stats
